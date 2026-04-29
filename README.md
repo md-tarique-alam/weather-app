@@ -47,12 +47,6 @@ A simple and clean weather application that fetches real-time weather data using
 
 ---
 
-## 🌐 Live Demo
-
-(After enabling GitHub Pages, add your link here)
-
----
-
 ## 📂 How to Run Locally
 
 1. Download or clone the repository
