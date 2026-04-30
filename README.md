@@ -6,6 +6,11 @@ A simple and clean weather application that fetches real-time weather data using
 
 ---
 
+## 🚀 Live Demo
+👉 [Click here to view the project](https://md-tarique-alam.github.io/weather-app/)
+
+---
+
 ## 🚀 Features
 
 *  Search weather by city name
